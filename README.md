@@ -116,3 +116,7 @@ public final class JasyptPBEStringDecryptionCLI {
 }
 
 ```
+
+## online decrypt
+
+https://www.devglan.com/online-tools/jasypt-online-encryption-decryption
